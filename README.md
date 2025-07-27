@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project analyzes the **Superstore retail dataset** to uncover actionable insights on sales, customer behavior, returns, and product performance. The analysis combines **SQL** (for business queries) and **Python** (for exploratory data analysis and visualizations).
+This project analyzes the **Superstore retail dataset** to uncover actionable insights on sales, customer behavior, returns, and product performance. The analysis combines **Tableau** (for visualization), **SQL** (for business queries) and **Python** (for exploratory data analysis and visualizations).
 
 ---
 
