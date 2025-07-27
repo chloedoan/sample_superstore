@@ -32,6 +32,28 @@ This project analyzes the **Superstore retail dataset** to uncover actionable in
 
 ---
 
+## 📁 Tableau Dashboard
+
+### 🛠️ Tableau Public Link: 
+
+[Sample Superstore - Revenue and Profit KPI](https://public.tableau.com/app/profile/chloe.doan/viz/SampleSuperstore-RevenueProfitKPI/Dashboard6?publish=yes)
+
+### 🔍 Overview
+
+<img width="1393" height="799" alt="Screenshot 2025-07-27 at 4 46 23 PM" src="https://github.com/user-attachments/assets/cd01ac5f-90bd-4d7e-a155-8a2d0d1beb72" />
+
+
+#### Key Insights
+
+### 🔗 Customer
+
+<img width="1358" height="773" alt="Screenshot 2025-07-27 at 4 46 39 PM" src="https://github.com/user-attachments/assets/29181e56-1074-4653-971e-abc717f2d449" />
+
+
+#### Key Insights
+
+---
+
 ## 🧠 Key Analyses
 
 ### 🧾 SQL Business Queries
