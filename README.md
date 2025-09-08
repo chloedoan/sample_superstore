@@ -44,6 +44,22 @@ This project analyzes the **Superstore retail dataset** to uncover actionable in
 
 
 #### Key Insights
+- MTD Sales: $85,175 as of Dec 30, 2025, showing an **-11.98% YoY decline**, signaling weaker December performance compared to last year.  
+- Pre-Month Sales: November closed at $123,786, a **+55.88% YoY increase**, indicating a strong month before the December drop.  
+- YTD Sales: $745,568, reflecting a **+21.59% YoY growth**, meaning the business remains on track overall despite the December dip.  
+
+- Sales Trend (Months): Peaks in **November ($353K)** and notable low in **February (~$60K)** highlight seasonal fluctuations.  
+- MTD by State: California is the top contributor ($19,318 sales, $3,859 profit), while Illinois shows a loss (-$3,145).  
+- MTD by Category: Chairs dominate category sales ($14,966), while other sub-categories show smaller but stable contributions.  
+
+**Key Takeaway**: Strong YoY growth overall (+21.6%), but December underperformed. Focus on managing seasonal volatility and addressing unprofitable states (e.g., Illinois).
+
+**Business Suggestions**
+- Seasonality Management December underperformance (-12% YoY) suggests a need for targeted promotions or bundled offers in Q4 to stabilize end-of-year sales.  
+- Geographic Focus: Expand efforts in California (highest sales & profit) and investigate reasons for Illinois losses (-$3,145), possibly renegotiating supplier terms or adjusting pricing.  
+- Category Optimization: Chairs drive the highest sales ($14,966). Consider cross-selling complementary categories (tables, furnishings) to increase average order value.  
+- Profitability Monitoring: Implement margin-based KPIs in Tableau to flag low-profit states/categories in real time for faster corrective action.  
+
 
 ### 🔗 Customer
 
@@ -51,6 +67,25 @@ This project analyzes the **Superstore retail dataset** to uncover actionable in
 
 
 #### Key Insights
+- YTD Sales: $745,568 from Jan–Dec 2025, a **+21.59% YoY increase**, showing healthy overall performance.  
+- Customer Segments: Consumer and Corporate drive the bulk of sales, while Home Office lags behind, suggesting potential growth opportunities.  
+- YTD Customers: 704 customers, an **+7.98% YoY increase**, reflecting expansion in the customer base.  
+
+- Monthly Orders: Customer orders show consistent growth throughout the year, with strong peaks in **September–December**.  
+- Top Customers:  
+  - Sean Miller (Jacksonville) generated the highest single sales ($23,661) but at a **negative profit ratio (-7.56%)**.  
+  - Tamara Chand (Lafayette) and Raymond Buch (Seattle) achieved strong **profit ratios of ~48%**, making them highly valuable.  
+  - Tom Ashbrook (NYC) contributed $13,716 with a healthy **33.5% profit margin**, but order is still processing.  
+
+**Key Takeaway**: Growth is driven by Consumer/Corporate segments and profitable customers like Tamara Chand & Raymond Buch. However, negative-margin customers (e.g., Sean Miller, Becky Martin) need closer monitoring.
+
+**Business Suggestions**
+
+- Customer Segments: Invest more in **Consumer and Corporate** segments while designing targeted campaigns to grow the underperforming **Home Office** segment.  
+- Customer Profitability: Focus retention efforts on high-margin customers like Tamara Chand (+47.8%) and Raymond Buch (+47.9%), while revisiting discount structures for loss-making accounts like Sean Miller (-7.6%).  
+- Order Patterns: Capitalize on strong Q3–Q4 peaks with loyalty offers or seasonal promotions to boost sales further during high-demand months.  
+- Data-driven Targeting: Use segmentation in Tableau to identify top 20% of customers by profit contribution and prioritize them in account management strategies.  
+
 
 ---
 
